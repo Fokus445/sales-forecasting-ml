@@ -2,7 +2,7 @@
 
 ## Overview
 
-Sales forecasting approach utilizes two powerful models: linear regression and LSTMs. Exploration revealed that LSTMs achieved superior results when analyzing past twelve months of monthly sales data to predict the next twelve months.
+Sales forecasting approach utilizes two powerful models: linear regression and LSTMs. Exploration revealed that LSTMs and Linear Regression achieved superior results when analyzing past twelve months of monthly sales data to predict the next twelve months.
 
 ## Data
 
